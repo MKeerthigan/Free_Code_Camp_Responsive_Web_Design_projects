@@ -20,8 +20,10 @@ This repository contains the HTML and CSS projects I build while learning web de
 
 ## 📂 Projects
 
-### 01. Delicious Chocolate Chip Cookies
+### 01. 01CatPhotoApp
+**Status:** Completed
 
+### 02. 02Delicious Chocolate Chip Cookies
 **Status:** Completed
 
 A simple recipe webpage created using HTML. It displays a chocolate chip cookie recipe with an introduction, an image, a list of ingredients, and step-by-step baking instructions.
@@ -48,9 +50,9 @@ I will continue adding new projects as I progress through the freeCodeCamp Respo
 
 | Progress | Number of Projects |
 |---|---:|
-| Completed | 1 |
+| Completed | 2 |
 | In Progress | 0 |
-| Total Completed | 1 |
+| Total Completed | 2 |
 
 ## 📚 Learning Resource
 
@@ -58,7 +60,7 @@ I will continue adding new projects as I progress through the freeCodeCamp Respo
 
 ## 👨‍💻 About Me
 
-I am a first-year BSc Computer Science and Technology undergraduate at Uva Wellassa University of Sri Lanka.
+I am a second-year BSc Computer Science and Technology undergraduate at Uva Wellassa University of Sri Lanka.
 
 This repository documents my journey from learning the basics of HTML and CSS to building responsive websites through practical projects.
 
